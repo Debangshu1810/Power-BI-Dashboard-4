@@ -22,4 +22,4 @@ This dashboard transforms raw sales data into actionable insights, helping busin
 
 Optimize product strategy Improve logistics decisions Track performance efficiently Identify growth opportunities.
 Power Bi projects: https://github.com/Debangshu1810/Power-BI-Dashboard-4/blob/main/Power%20BI%20NATH%20ENTERPRISE.pbix
-Project Screenshot: 
+Project Screenshot: https://github.com/Debangshu1810/Power-BI-Dashboard-4/blob/main/NATH%20ENTERPRISE%20PVT.%20LTD.%20DASHBOARD%20.png
